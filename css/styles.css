@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+
+.table {
+    width: 60%;
+    text-align: center;
+    } 
+    
+.botonesMarcaFinalizar{
+    display:flex;
+    justify-content: space-between;
+
+}
+
